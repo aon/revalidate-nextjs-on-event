@@ -1,0 +1,29 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# local env files
+.env*
+
+# typescript
+*.tsbuildinfo
+
+# Abi
+abi
+
+# Log files
+*.log
+
+# Config
+config
