@@ -1,4 +1,4 @@
-# revalidate-on-event
+# Revalidate NextJS on event
 
 This is a small docker-deployable app that listens for contract events and revalidates static pages on Next.js.
 
