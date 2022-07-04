@@ -1,4 +1,8 @@
 # Revalidate NextJS on event
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/aon/revalidate-nextjs-on-event/docker-ci)
+![Docker Image Size (latest semver)](https://img.shields.io/docker/image-size/agustinaon/revalidate-nextjs-on-event)
+![GitHub](https://img.shields.io/github/license/aon/revalidate-nextjs-on-event)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/aon/revalidate-nextjs-on-event)
 
 This is a small docker-deployable app that listens for contract events and revalidates static pages on Next.js.
 
