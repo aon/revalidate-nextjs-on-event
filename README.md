@@ -145,6 +145,6 @@ services:
     restart: unless-stopped
 ```
 
-## Collaboration
+## Contribution
 
 Collaborating is welcomed! This was done in a short period of time, when I found I needed this feature on a project I was building. There are probably a lot of edge cases I haven't thought of, but I think this is a good start point.
